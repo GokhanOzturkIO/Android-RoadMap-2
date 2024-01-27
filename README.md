@@ -2,7 +2,7 @@
 
 **Androidv14 - Level34**
 
-## UI GUIDE
+## UI GUIDE - VIEW STRUCTURE
 
 ### 1. Develop your app’s layout
 
